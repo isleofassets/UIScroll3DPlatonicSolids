@@ -12,7 +12,7 @@ Supported platforms: Android/IOS
 
 Models count: 5
 
-![Screenshot](cover-img.jpg)
+[![YouTube Video](cover-img.jpg)](https://youtu.be/mJmu3sLB998)
 
 # Screenshots
 ![Screenshot](screenshot-img-a.jpg)
