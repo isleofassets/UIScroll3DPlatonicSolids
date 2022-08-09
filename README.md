@@ -13,3 +13,9 @@ Supported platforms: Android/IOS
 Models count: 5
 
 ![Screenshot](cover-img.jpg)
+
+# Screenshots
+![Screenshot](screenshot-img-a.jpg)
+![Screenshot](screenshot-img-b.jpg)
+![Screenshot](screenshot-img-c.jpg)
+![Screenshot](screenshot-img-d.jpg)
