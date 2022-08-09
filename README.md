@@ -1,4 +1,4 @@
-# UIScroll3DPlatonicSolids
+# UI Scroll 3D Platonic solids
 Template for choosing a Platonic solids (regular polyhedra) and its color.
 
 There are 5 models and their sprites available in total:
