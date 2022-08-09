@@ -6,5 +6,3 @@ Briefly about the purpose of each script:
 - SpawnBubbles		(responsible for spawning bubbles in the background of the scene)
 
 All blocks in scripts are commented out, so I think there will be no problems. Otherwise, write to the mail isleofassets@gmail.com
-
-Please do not forget to rate this asset in the Asset Store! :)
